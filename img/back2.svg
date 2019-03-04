@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" preserveAspectRatio="none" viewBox="0 0 1366 768">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Web_1366_2);
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        opacity: 0.2;
+      }
+
+      .cls-3 {
+        opacity: 0.1;
+      }
+
+      .cls-4 {
+        opacity: 0.2;
+      }
+    </style>
+  </defs>
+  <g id="Web_1366_2" data-name="Web 1366 – 2" class="cls-1">
+  
+    <path id="Path_2" data-name="Path 2" class="cls-3" d="M1138.334-15.042l-76.6,86.741,115.941,8.757Z" transform="matrix(0.602, -0.799, 0.799, 0.602, -132.521, 1136.096)"/>
+    <path id="Path_3" data-name="Path 3" class="cls-3" d="M1106.706-15.042l-44.97,50.925,68.068,5.141Z" transform="matrix(0.995, 0.105, -0.105, 0.995, -59.697, 362.974)"/>
+    <path id="Path_8" data-name="Path 8" class="cls-3" d="M1106.706-15.042l-44.97,50.925,68.068,5.141Z" transform="matrix(0.995, 0.105, -0.105, 0.995, -509.697, 342.974)"/>
+    <path id="Path_4" data-name="Path 4" class="cls-3" d="M1106.706-15.042l-44.97,50.925,68.068,5.141Z" transform="matrix(0.309, 0.951, -0.951, 0.309, -230.545, -931.721)"/>
+    <path id="Path_5" data-name="Path 5" class="cls-3" d="M1121.325-15.042l-59.59,67.48,90.2,6.812Z" transform="matrix(0.755, 0.656, -0.656, 0.755, 28.124, -648.737)"/>
+    <path id="Path_6" data-name="Path 6" class="cls-3" d="M1121.325-15.042l-59.59,67.48,90.2,6.812Z" transform="matrix(0.755, 0.656, -0.656, 0.755, -137.876, -74.737)"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" class="cls-3" cx="33" cy="33" r="33" transform="translate(1029 22)"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" class="cls-3" cx="24.5" cy="24.5" r="24.5" transform="translate(168 201)"/>
+    <circle id="Ellipse_4" data-name="Ellipse 4" class="cls-3" cx="24.5" cy="24.5" r="24.5" transform="translate(1177 644)"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" class="cls-3" cx="33" cy="33" r="33" transform="translate(799 459)"/>
+  </g>
+</svg>
